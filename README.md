@@ -5,15 +5,15 @@ Open data related to the endangered Southern Resident Killer Whales (SRKW) to su
 
 ## General
 1. Holger thought (via Kaitlin): expand to global killer whale ecotypes?
-  1. Holger suggestion of Norwegian KW annotations?
-  2. Scott Q: did anyone ever annotate KW signals in the PALOA archive from Antarctica?
-  3. Scott: Ask re Icelandic recordings/annotations?
-  4. Scott: Reconnect with Dan Olsen et al. re Gulf of Alaska ecotypes?
-  5. Reach out to Russian KW bioacousticians?
+    1. Holger suggestion of Norwegian KW annotations?
+    2. Scott Q: did anyone ever annotate KW signals in the PALOA archive from Antarctica?
+    3. Scott: Ask re Icelandic recordings/annotations?
+    4. Scott: Reconnect with Dan Olsen et al. re Gulf of Alaska ecotypes?
+    5. Reach out to Russian KW bioacousticians?
 2. Make stronger connections with past WA/BC and compared annotated data sets with past published work? Are we missing any opportunities?
-  1. NRKWs: Miller's localization work? Volker Deecke's work? Christian Bergler's efforts with NRKW calls from OrcaLab?
-  2. SRKWs: Andy Foote's SRKW work? Monika Wieland's undergrad thesis and subsequent work? Candice Emmons? David Bain?
-  3. Bigg's: How many annotations or call type examples does John Ford have?
+    1. NRKWs: Miller's localization work? Volker Deecke's work? Christian Bergler's efforts with NRKW calls from OrcaLab?
+    2. SRKWs: Andy Foote's SRKW work? Monika Wieland's undergrad thesis and subsequent work? Candice Emmons? David Bain?
+    3. Bigg's: How many annotations or call type examples does John Ford have?
 
 ## Detection
 
