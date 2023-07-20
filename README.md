@@ -50,7 +50,7 @@ Un/quasi/supervised?
 
 ## Density Estimation
 
-1. Cool think about SRKWs: we know the total population perfectly.
+1. Cool thing about SRKWs: we know the total population perfectly.
 2. Increasingly, we have visual observations that can constrain the number of individuals within detection range
 3. DE at pod level could be done in many places (maybe best where localization could also offer constraints?)
 4. DE at matriline level probably needs visual presence and ID info from a dense network observing continuously during daylight hours (e.g. west side San Juan Island [Facebook group, Lime Kiln staff, Oceans Initiative theodolite team; or maybe East Point?)
