@@ -1,6 +1,13 @@
 # orca-dclde
 Open data related to the endangered Southern Resident Killer Whales (SRKW) to support a Detection, Classification, Localization, and Density Estimation (DCLDE) workshop
 
+Join our [Discussions](https://github.com/orcasound/orca-dclde/discussions) and check out our [Wiki](https://github.com/orcasound/orca-dclde/wiki)! As of summer 2023, the Wiki covers:
+
+- Competition Evaluation
+- Data Sharing Agreement
+- To Do
+- Training Data!
+
 # Initial challenge ideas (archived open data opportunities)
 
 ## General
